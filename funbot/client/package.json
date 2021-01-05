@@ -9,7 +9,7 @@
     "start": "serve -n dist/"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "japan-postal-code": "^0.2.0",
     "serve": "^10.1.1",
     "vue": "^2.5.17"
